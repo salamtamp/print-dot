@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="print-dot-salamtam",
-    version="0.0.1",
+    version="0.0.3",
     author="salamtam",
     author_email="salamtam.p@gmail.com",
     description="print dot for test the coding work",
